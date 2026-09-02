@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 My name is Rafi. I'm a Data Science/analytics/Big data Enthusiast working on data & cloud related technologies.
-- 👀 I’m a Computer Science Engineer !,Learning Cloud Data Engineering
+- 👀 I’m a Computer Science Engineer !,Learning Cloud & Data
 - 📫 How to reach me: [Mail me](mailto:mdrafiuddincse@gmail.com) 
  
 ### :hammer_and_wrench: Languages and Tools :
